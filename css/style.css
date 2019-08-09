@@ -3,8 +3,22 @@ html , body {
 	height: 100%;
 }
 .black-box{
-	height: 100%;
 	width: 100%;
+	height: 100%;
 	background-color:black;
 	border: 4px solid black;
+}
+.headline{
+
+	background-color:red;
+}
+.taqsa-foto{
+	height: 50px;
+	margin-left: 50px;
+}
+
+.taqsa{
+	
+width: 100%;
+
 }
