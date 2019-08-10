@@ -19,15 +19,15 @@ html , body {
 	margin-left: 50px;
 	align-items: middle;
 }
-.taqsa{
-    height: 100%;
-    position: relative;
-}
 h2{
 	font-size: 50px;
 	color:white;
 	margin-right: 100px;
 	align-items: center;
+}
+.taqsa{
+    height: 100%;
+    position: relative;
 }
 .box1{
 	width: 30%;
